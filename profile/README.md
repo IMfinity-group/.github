@@ -36,17 +36,13 @@ Below is a list of all repositories in the IMfinity Group organization:
 
 ---
 
-## 🚀 Getting Started
-
-To explore our projects, click on any repository link above. Each repository contains its own README with specific information about the project.
-
 ## 📝 Contributing
 
-We welcome contributions! Please check individual repository guidelines for contribution instructions.
+This code is private to the IMfinity Group organization. If you are a member and wish to contribute, please contact the repository maintainers for access and guidelines.
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, please open an issue in the relevant repository.
+For questions or collaboration opportunities, please reach out to us at [contact@imfinity-group.com](mailto:contact@imfinity-group.com).
 
 ---
 
